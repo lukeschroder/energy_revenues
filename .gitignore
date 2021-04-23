@@ -1,3 +1,13 @@
+data/860m/
+data/861m/
+data/860m_clean.csv
+data/861m_clean.csv
+.ipynb_checkpoints
+data/.ipynb_checkpoints
+notebooks/.ipynb_checkpoints
+images/.ipynb_checkpoints
+src/.ipynb_checkpoints
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

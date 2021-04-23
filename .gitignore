@@ -2,6 +2,13 @@ data/860m/
 data/861m/
 data/860m_clean.csv
 data/861m_clean.csv
+data/861m_state_clean.csv
+data/X_test.csv
+data/X_train.csv
+data/y_test.csv
+data/y_train.csv
+
+
 .ipynb_checkpoints
 data/.ipynb_checkpoints
 notebooks/.ipynb_checkpoints

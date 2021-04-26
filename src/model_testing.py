@@ -12,6 +12,9 @@ def evaluate(X_train,y_train,X_test):
 
     y_pred = model.predict(X_test)
 
+    y_pred = np.e**y_pred
+    print(y_pred)
+
     RMSE = mean_squared_error(y_test,y_pred,squared=False)
 
     return RMSE
